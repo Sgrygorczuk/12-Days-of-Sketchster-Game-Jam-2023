@@ -2,212 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d14fd13-de80-4a76-ba0c-662a61de34cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.12-Days-of-Sketchster-Game-Jam-2023/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.12-Days-of-Sketchster-Game-Jam-2023/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.12-Days-of-Sketchster-Game-Jam-2023/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.12-Days-of-Sketchster-Game-Jam-2023/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Collectible.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Collectible/Egg.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Collectible/Egg.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Collectible/Float.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Collectible/Float.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Fire.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Fire/Burn.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Fire/Burn.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Fire/Fire.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Fire/Fire.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/Climb.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/Climb.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/ClimbEquip.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/ClimbEquip.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/Idle.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/Idle.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/IdleEquip.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/IdleEquip.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/Jump.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/Jump.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/JumpEquip.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/JumpEquip.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/Player.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/Player.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/Walk.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/Walk.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/WalkEquip.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player/WalkEquip.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Bunny.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Bunny.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Door.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Door.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Egg.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Egg.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Fire.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Fire.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Ladder.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Ladder.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Sword.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/PreFabs/Sword.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrpits/GameController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrpits/GameController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrpits/MainMenu.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrpits/MainMenu.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrpits/PlayerController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scrpits/PlayerController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Walk.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Walk.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/WalkEquip.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/WalkEquip.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/12-Days-of-Sketchster-Game-Jam-2023.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/12-Days-of-Sketchster-Game-Jam-2023.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game Scene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game Scene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scrpits/PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Background.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Chocolate Egg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Chocolate Egg.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Door 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Door 1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Door.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Door.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(1).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(10).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(10).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(11).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(11).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(12).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(12).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(13).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(13).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(14).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(14).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(2).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(2).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(3).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(3).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(4).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(4).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(5).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(5).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(6).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(6).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(7).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(7).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(8).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(8).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Dragon-(9).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Dragon-(9).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fire Enemy (1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Fire Enemy (1).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fire Enemy (2).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Fire Enemy (2).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fire Enemy (3).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Fire Enemy (3).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fire Enemy (4).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Fire Enemy (4).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Fire Enemy (5).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Fire Enemy (5).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Gustavo_Julio_Rafaela_(1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Gustavo_Julio_Rafaela_(1).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Gustavo_Julio_Rafaela_(2).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Gustavo_Julio_Rafaela_(2).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Platform-(Wall).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Platform-(Wall).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Platform.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Platform.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(1).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(2).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(2).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(3).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(3).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(4).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(4).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(5).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(5).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(6).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Attack(6).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Climbing-Ladder(1)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Climbing-Ladder(1)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Climbing-Ladder(1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Climbing-Ladder(1).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Climbing-Ladder(2)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Climbing-Ladder(2)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Climbing-Ladder(2).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Climbing-Ladder(2).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Jump-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Jump-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Jump.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Jump.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Standing-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Standing-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Standing.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Standing.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(1)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(1)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(1).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(1).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(2)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(2)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(2).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(2).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(3)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(3)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(3).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(3).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(4)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(4)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(4).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(4).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(5)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(5)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(5).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(5).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(6)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(6)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(6).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(6).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(7)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(7)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(7).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(7).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(8)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(8)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(8).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(8).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(9)-(Equiped).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(9)-(Equiped).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(9).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Player-Walking-(9).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Stairs.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Stairs.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Sword.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Sword.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Wall.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Wall.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/chocolate rabbit.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/chocolate rabbit.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pillar.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/pillar.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.12-Days-of-Sketchster-Game-Jam-2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.12-Days-of-Sketchster-Game-Jam-2023/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Test_Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,20 +27,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Discover.Launch.Via.Unity": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "rider.run.widget.enabled.cache": "false",
-    "settings.editor.selected.configurable": "ReSpellerSettingsId",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;rider.run.widget.enabled.cache&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ReSpellerSettingsId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.11f1\Editor\Unity.exe" />
@@ -283,6 +81,7 @@
       <updated>1681163879198</updated>
       <workItem from="1681163903678" duration="10873000" />
       <workItem from="1681250065973" duration="3911000" />
+      <workItem from="1681255701385" duration="591000" />
     </task>
     <servers />
   </component>
