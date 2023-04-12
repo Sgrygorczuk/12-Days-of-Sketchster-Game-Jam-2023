@@ -27,6 +27,8 @@ public class PlayerController : MonoBehaviour
     //========= Movement 
     //Controls the height the player will jump 
     [SerializeField] private float ySpeed = 10;
+    //Speed at which the character moves right to left 
+    [SerializeField] private float xSpeed = 3;
     //Controls the lenght of the ground check
     public float distanceToGround = 0.1f;
     //Tells us which layer the collision is looking for. [Layer = Floor] 
@@ -40,8 +42,14 @@ public class PlayerController : MonoBehaviour
     private GameObject _door;
     //Game Controller which will pick which end canvas will pop up for the player to use 
     private GameController _gameController;
-
     
+    //========= SFX
+
+    private AudioSource _die;
+    private AudioSource _win;
+    private AudioSource _coin;
+    private AudioSource _jump;
+
     //==================================================================================================================
     // Basic Methods  
     //==================================================================================================================
@@ -57,6 +65,11 @@ public class PlayerController : MonoBehaviour
         _gameController = GameObject.Find("Controller").GetComponent<GameController>();
         _collectibles = GameObject.Find("Collectible").gameObject;
         _door = GameObject.Find("Door").gameObject;
+
+        _coin = transform.Find("SFX").transform.Find("Coin").GetComponent<AudioSource>();
+        _win = transform.Find("SFX").transform.Find("Win").GetComponent<AudioSource>();
+        _die = transform.Find("SFX").transform.Find("Die").GetComponent<AudioSource>();
+        _jump = transform.Find("SFX").transform.Find("Jump").GetComponent<AudioSource>();
     }
 
     /// <summary>
@@ -93,6 +106,7 @@ public class PlayerController : MonoBehaviour
         //If the player clicks the jump input while being ground and not climbing they will jump 
         if (Input.GetButtonDown("Jump") && _isGrounded && !_isClimbing)
         {
+            _jump.Play();
             _rigidbody2D.velocity = new Vector2(_rigidbody2D.velocity.x, ySpeed);
         }
 
@@ -108,7 +122,7 @@ public class PlayerController : MonoBehaviour
         //While the player is not climbing, clicking left or right will make the scale go between -1 and 1 to change the way the sprite is facing 
         if(!_isClimbing){transform.localScale = Input.GetAxis("Horizontal") < 0 ? new Vector3(-1, 1, 1) : new Vector3(1,1,1);}
         //Adds the speed to the x axis while holding the vertical speed 
-        _rigidbody2D.velocity = new Vector2(Input.GetAxis("Horizontal"), _rigidbody2D.velocity.y);
+        _rigidbody2D.velocity = new Vector2(Input.GetAxis("Horizontal") * xSpeed, _rigidbody2D.velocity.y);
         //Sets the animator to to animate walking 
         _animator.SetBool($"isWalking", true);
     }
@@ -175,9 +189,11 @@ public class PlayerController : MonoBehaviour
         //Checks if the player walked into a collectible, if so destroy it, if player got all collectibles destroy door 
         if (col.gameObject.CompareTag($"Collectible"))
         {
+            _coin.Play();
             Destroy(col.gameObject);
             if (_collectibles.transform.childCount <= 1)
             {
+                _win.Play();
                 Destroy(_door);
             }
         }
@@ -194,6 +210,7 @@ public class PlayerController : MonoBehaviour
             //Die 
             else
             {
+                _die.Play();
                 _canPlay = false;
                 _gameController.EndGame(true);   
             }
@@ -202,6 +219,7 @@ public class PlayerController : MonoBehaviour
         //Checks if the player fell off the map, if so they die
         if (col.gameObject.CompareTag($"FloorDeath"))
         {
+            _die.Play();
             _canPlay = false;
             _gameController.EndGame(true);   
         }
@@ -209,6 +227,7 @@ public class PlayerController : MonoBehaviour
         //Checks if the player got the sword, if so they now change animation set and now can kill enemies 
         if (col.gameObject.CompareTag($"Sword"))
         {
+            _win.Play();
             _animator.SetBool($"isEquiped", true);
             Destroy(col.gameObject);
             _isEquipped = true;
@@ -217,6 +236,7 @@ public class PlayerController : MonoBehaviour
         //Checks if the player touched the people if so they won the game and get the pop up screen 
         if (col.gameObject.CompareTag($"People"))
         {
+            _win.Play();
             _canPlay = false;
             _gameController.EndGame(false);   
         }
