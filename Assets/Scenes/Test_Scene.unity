@@ -140,11 +140,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9122069385864488340, guid: 52cc4c76be05ebd4a8fe130c6c3efb6c, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.29
+      value: 0.38
       objectReference: {fileID: 0}
     - target: {fileID: 9122069385864488340, guid: 52cc4c76be05ebd4a8fe130c6c3efb6c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.61
+      value: 3.53
       objectReference: {fileID: 0}
     - target: {fileID: 9122069385864488340, guid: 52cc4c76be05ebd4a8fe130c6c3efb6c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4721,11 +4721,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9122069385864488340, guid: 52cc4c76be05ebd4a8fe130c6c3efb6c, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.76
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 9122069385864488340, guid: 52cc4c76be05ebd4a8fe130c6c3efb6c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.39
+      value: -1.59
       objectReference: {fileID: 0}
     - target: {fileID: 9122069385864488340, guid: 52cc4c76be05ebd4a8fe130c6c3efb6c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5019,7 +5019,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5311f47adbc8c424aa6c635dac2e8082, type: 3}
+  m_audioClip: {fileID: 8300000, guid: fec95fe8313fd5d41a311a42834fd95c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.1
   m_Pitch: 1
@@ -5650,10 +5650,6 @@ PrefabInstance:
     - target: {fileID: 475728253174246857, guid: accf1545d71254c41b2ad4b68b691dfb, type: 3}
       propertyPath: m_Name
       value: Fire
-      objectReference: {fileID: 0}
-    - target: {fileID: 1259447308523561471, guid: accf1545d71254c41b2ad4b68b691dfb, type: 3}
-      propertyPath: m_SortingOrder
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2297635669550796787, guid: accf1545d71254c41b2ad4b68b691dfb, type: 3}
       propertyPath: m_RootOrder
