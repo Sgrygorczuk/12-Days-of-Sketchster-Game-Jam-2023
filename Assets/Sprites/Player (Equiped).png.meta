@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 93683e2976eef904fa6211a924b94ab1
+guid: e52b41b5276d38d48a4cf511234de2c8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -102,7 +102,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+<<<<<<< HEAD:Assets/Sprites/Player-Standing-(Equiped).png.meta
     buildTarget: WebGL
+=======
+    buildTarget: iPhone
+>>>>>>> main:Assets/Sprites/Player (Equiped).png.meta
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
